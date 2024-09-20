@@ -1,2 +1,2 @@
-# S.M.A.R.T
-Smart Module Automatic Reaction Technologies 
+# S.M.A.R.T Home
+Smart Module Automatic Reaction Technologies for Home
